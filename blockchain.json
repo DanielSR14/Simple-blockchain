@@ -1,0 +1,50 @@
+[
+    {
+        "index": 0,
+        "previous_hash": "2024-05-20 19:50:14.730587",
+        "timestamp": "Genesis Block",
+        "data": "0",
+        "sender": "",
+        "recipient": "",
+        "amount": 0,
+        "custom_data": "",
+        "nonce": 0,
+        "hash": "c8d8c18b73c58a7004e4684bc9cf419181fc64e6c71cafd365cf78ca9c5e4da3"
+    },
+    {
+        "index": 1,
+        "previous_hash": "c8d8c18b73c58a7004e4684bc9cf419181fc64e6c71cafd365cf78ca9c5e4da3",
+        "timestamp": "2024-05-20 19:50:52",
+        "data": "Transaction: Daniel to Elena - Amount: 40.0",
+        "sender": "Daniel",
+        "recipient": "Elena",
+        "amount": 40.0,
+        "custom_data": "Estou transferindo 40 bitcoins para voce!",
+        "nonce": 54710,
+        "hash": "00000010f9f89356a885032f25458549be9869c4dc9441994099f3473573d9cc"
+    },
+    {
+        "index": 2,
+        "previous_hash": "00000010f9f89356a885032f25458549be9869c4dc9441994099f3473573d9cc",
+        "timestamp": "2024-05-20 19:51:59",
+        "data": "Transaction: Elena to Jo\u00e3o - Amount: 15.0",
+        "sender": "Elena",
+        "recipient": "Jo\u00e3o",
+        "amount": 15.0,
+        "custom_data": "Presente",
+        "nonce": 203436,
+        "hash": "00000953d552a41f6b142a11b73d7318b4b35c51669bb28359c35043d4a2de89"
+    },
+    {
+        "index": 3,
+        "previous_hash": "00000953d552a41f6b142a11b73d7318b4b35c51669bb28359c35043d4a2de89",
+        "timestamp": "2024-05-20 19:55:09",
+        "data": "Transaction: Pedro to Maria - Amount: 15238.0",
+        "sender": "Pedro",
+        "recipient": "Maria",
+        "amount": 15238.0,
+        "custom_data": "Esta transfer\u00eancia de Bitcoins foi realizada de forma segura e confirmada ap\u00f3s 6 confirma\u00e7\u00f5es na blockchain. A taxa de transa\u00e7\u00e3o foi aplicada conforme as normas vigentes na rede Bitcoin.",
+        "nonce": 338860,
+        "hash": "00000e5cad6be52a7f826cecaf32112e234e714417c2d610d71d51575b72405d"
+    }
+]
