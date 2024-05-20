@@ -158,6 +158,7 @@ while user_choice != 3:
 
     elif user_choice == '3':
         print('Exiting...')
+        break
 
     else:
         print('Invalid choice, please try again.')
